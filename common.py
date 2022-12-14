@@ -1,0 +1,2 @@
+global stat 
+stat=False 
